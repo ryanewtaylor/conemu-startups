@@ -1,0 +1,3 @@
+*cmd -new_console:s1T50H
+*>powershell -new_console:s1T50H
+*cmd -new_console:s1T50V
