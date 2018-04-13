@@ -1,3 +1,3 @@
-*cmd /k "%ConEmuBaseDir%\CmdInit.cmd" "-new_console:s1T50H:t:Webpack"
-*>powershell "-new_console:s1T50H:t:PoshGit"
-*cmd /k "%ConEmuBaseDir%\CmdInit.cmd" "-new_console:s1T50V:t:Karma"
+*>powershell "-new_console:t:Dev1"
+*powershell "-new_console:t:Dev2"
+
